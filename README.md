@@ -1,1 +1,3 @@
-# Turing-Machine-
+# Turing-Machine
+
+ADD 2 BINARY NUMBER BY TURING MACHINE 
